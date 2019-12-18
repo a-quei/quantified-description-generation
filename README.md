@@ -1,6 +1,6 @@
 # Quantified Description Generation
 
-Code for the paper (*Generating Quantified Descriptions of Abstract Visual Scenes*)[https://www.aclweb.org/anthology/W19-8667/], in the proceeding of 12th International Conference on Natural Lnaguage Generation (INLG 2019).
+Code for the paper [*Generating Quantified Descriptions of Abstract Visual Scenes*](https://www.aclweb.org/anthology/W19-8667/), in the proceeding of 12th International Conference on Natural Lnaguage Generation (INLG 2019).
 
 ## Introduction
 
